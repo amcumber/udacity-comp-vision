@@ -133,3 +133,7 @@ yolov3.weights
 yolov3.cfg
 coco.names
 *.net
+
+# Data
+anna.txt
+shakespeare.txt
